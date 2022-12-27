@@ -47,7 +47,7 @@
   }
 
 .humanlab2 {
-    width: 72%;
+    width: 68%;
     margin-left: 10%;
 }
 
@@ -74,8 +74,8 @@
   }
 
   @keyframes movecer2 {
-  0% {top: 40%;}
-  100% {top: 42%;}
+  0% {top: 41%;}
+  100% {top: 43%;}
   }
 
   @keyframes movecer2_1 {
@@ -190,7 +190,7 @@
 
 @media only screen and (max-device-width: 1280px){
     body, html {
-      height: 3000px;
+      height: 2970px;
       width: 1280px;
       font-size: 291px;
       line-height: 356px;
@@ -206,7 +206,7 @@
 }
 
     .box1_1 {
-      margin-top: -138.4%;
+      margin-top: -136.6%;
     }
 
     .cer6_2 {
@@ -216,6 +216,7 @@
 
     .humanbrain {
     width: 72%;
+    top: 2.5%;
     }
 
    .humlab1 {
@@ -227,7 +228,7 @@
   }
 
     .block9line {
-       width: 73%;
+       width: 72%;
     }
 
     .collbs {
@@ -237,13 +238,32 @@
     margin-left: 9%;
     }
 
+  .block7line {
+    height: 127%;
+    }
+
     .cer6_5 {
     margin-top: 11%;
     margin-left: 43%;
     }
 
+   .block14line {
+    width: 104%;
+    margin-top: -55%;
+    }
+
+
+    @keyframes movecer2 {
+    0% {top: 40%;}
+    100% {top: 42%;}
+  }
+
+   @keyframes movecer2_1 {
+   0% {top: 40%;}
+   100% {top: 46%;}
+  }
     .block12pic {
-    width: 80%;
+    width: 79%;
     display: block;
     margin: 7% auto;
 }
@@ -301,8 +321,8 @@
 }
 
   .humanbrain {
-    width: 63%;
-    left: 24%;
+    width: 66%;
+    left: 22%;
 }
 
   .humlab1 {
