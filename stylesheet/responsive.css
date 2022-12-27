@@ -1,0 +1,405 @@
+@media all and (max-width: 1920px) {
+  body, html {
+    height: 4000px;
+    width: 1920px;
+    font-size: 404px;
+    line-height: 494px;
+  }
+
+
+  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+    box-sizing: border-box;
+    border: 6px solid #03FF0D;
+  }
+
+  .box1_1 {
+    margin-top: -122.3%;
+  }
+
+  .block8 {
+    height: 15.1%;
+  }
+
+  .radar1, .radar2, .radar3 {
+    border: 7px solid #03FF0D;
+}
+  }
+
+  .humanbrain {
+    bottom: -4%;
+    left: 19%;
+    width: 63%;
+}
+
+  .collbs {
+    width: 40%;
+    height: 33%;
+    top: -8.2%;
+    margin-left: 9%;
+  }
+
+  .humlab1 {
+    width: 69%;
+    height: 72%;
+    position: absolute;
+    bottom: -2.4%;
+    left: 2%;
+  }
+
+.humanlab2 {
+    width: 65%;
+    margin-left: 10%;
+}
+
+  .lab {
+    width: 70%;
+  }
+
+  .block7line, .block8line {
+    width: 54%;
+}
+
+.blockfuter {
+    margin-top: 11%;
+}
+
+
+
+  ._cer7, .cer7_2 {
+    margin-left: 1.8%;
+}
+
+  .cer7_0, .cer7_1 {
+    margin-left: 4.3%;
+  }
+
+  @keyframes movecer2 {
+  0% {top: 40%;}
+  100% {top: 42%;}
+  }
+
+  @keyframes movecer2_1 {
+  0% {top: 40%;}
+  100% {top: 46%;}
+  }
+
+  .cer7_3 {
+  margin-left: 6.9%;
+  margin-top: .4%;
+  }
+
+  .block9line {
+   width: 64%;
+   margin-left: 18%;
+}
+
+  .block12pic {
+    width: 70%;
+    display: block;
+    margin: 7% auto;
+}
+
+}
+
+@media all and (max-width: 1440px) {
+  body, html {
+    height: 4000px;
+    width: 1920px;
+    font-size: 404px;
+    line-height: 494px;
+  }
+
+  .box1_1 {
+    margin-top: -122.4%;
+  }
+
+  .block8 {
+    height: 15.1%;
+  }
+
+  .humanbrain {
+    width: 61.6%;
+    margin-left: 5%;
+   }
+
+  .humlab1 {
+    width: 65%;
+    height: 75%;
+    margin-bottom: 2%;
+    margin-left: 19%;
+  }
+
+  .humanlab2 {
+    width: 68%;
+    margin-top: 29%;
+    margin-left: 11%;
+  }
+
+  .collbs {
+    width: 40%;
+    height: 37%;
+    top: -10.8%;
+    margin-left: 9%;
+  }
+
+  .block7line, .block8line {
+    width: 53%;
+  }
+
+  .cer7_2, ._cer7 {
+    margin-left: 1.7%;
+  }
+
+    .cer7_3 {
+    margin-left: 6.5%;
+  }
+
+  .cer7_0, .cer7_1 {
+    margin-left: 4.2%;
+ }
+
+  .cer6_2 {
+    margin-top: 13.4%;
+    margin-left: 42%;
+  }
+
+  .cer6_5 {
+    margin-top: 17%;
+    margin-left: 51%;
+  }
+
+  @keyframes movecer2 {
+  0% {top: 41%;}
+  100% {top: 43%;}
+ }
+
+  @keyframes movecer2_1 {
+  0% {top: 41%;}
+  100% {top: 47%;}
+ }
+
+  .lab {
+    width: 70%;
+  }
+
+  .block9line {
+    width: 66%;
+    margin-left: 17%;
+  }
+}
+
+@media only screen and (max-device-width: 1280px){
+    body, html {
+      height: 3000px;
+      width: 1280px;
+      font-size: 291px;
+      line-height: 356px;
+    }
+
+    .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+      box-sizing: border-box;
+      border: 6px solid #03FF0D;
+    }
+
+    .box1_1 {
+      margin-top: -138.4%;
+    }
+
+    .cer6_2 {
+    margin-top: 11%;
+    margin-left: 63%;
+    }
+
+    .humanbrain {
+    width: 72%;
+    }
+
+    .block9line {
+       width: 73%;
+    }
+
+    .collbs {
+    width: 40%;
+    height: 29%;
+    top: -10.8%;
+    margin-left: 9%;
+    }
+
+    .cer6_5 {
+    margin-top: 11%;
+    margin-left: 43%;
+    }
+
+    .block12pic {
+    width: 80%;
+    display: block;
+    margin: 7% auto;
+}
+
+  .blockfuter {
+    margin-top: 12%;
+  }
+
+
+}
+
+
+
+
+
+}
+
+@media all and (max-width: 1024px) {
+  body, html {
+    height: 2520px;
+    width: 1024px;
+    font-size: 240px;
+    line-height: 294px;
+  }
+
+  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+    box-sizing: border-box;
+    border: 4px solid #03FF0D;
+  }
+
+  .box1_1 {
+    margin-top: -145.1%;
+  }
+
+  .block16 {
+    height: 76%;
+  }
+}
+
+@media all and (max-width: 834px) {
+  body, html {
+  width: 834px;
+  height: 289vh;
+  font-size: 195px;
+  line-height: 238px;
+}
+
+.blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+  box-sizing: border-box;
+  border: 4px solid #03FF0D;
+}
+
+  .box1_1 {
+    margin-top: -123.7%;
+}
+
+  .humanbrain {
+    width: 62%;
+    left: 24%;
+}
+
+  .humlab1 {
+    width: 66%;
+    height: 75%;
+    left: 2%;
+}
+
+  .collbs {
+    width: 38%;
+    height: 32%;
+    top: -13.8%;
+    margin-left: 9%;
+}
+
+  .radar1, .radar2, .radar3 {
+    border: 3px solid #03FF0D;
+}
+  .rectangle14, .rectangle15 {
+      border: 3px solid #03FF0D;
+}
+  .block9line {
+    width: 66%;
+}
+
+  .block12pic {
+    width: 71%;
+}
+
+  .block14radar {
+    margin-top: 18%;
+}
+
+  .block14line {
+    width: 23%;
+    margin: 1% 0 0 3%;
+}
+
+
+  .ellipse6 {
+    margin-top: 21%;
+}
+
+  @keyframes movecer2 {
+  0% {top: 41%;}
+  100% {top: 43%;}
+  }
+
+  @keyframes movecer2_1 {
+  0% {top: 41%;}
+  100% {top: 47%;}
+  }
+
+  .hr1 {
+    margin-top: 9%;
+}
+
+    .hr2, .hr3 {
+    margin-top: 58%;
+}
+
+
+}
+
+
+@media all and (max-width: 414px) {
+    body, html {
+    width: 414px;
+    height: 1570px;
+    font-size: 88px;
+    line-height: 108px;
+  }
+
+    .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+    box-sizing: border-box;
+    border: 2px solid #03FF0D;
+  }
+
+    .box1_1 {
+      margin-top: -213%;
+  }
+
+  .block16 {
+    height: 16.95%;
+  }
+
+}
+
+
+@media all and (max-width: 320px) {
+  body, html {
+    width: 320px;
+    height: 1150px;
+    font-size: 64px;
+    line-height: 79px;
+  }
+  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+    box-sizing: border-box;
+    border: 2px solid #03FF0D;
+  }
+
+  .block8 {
+  height: 15.5%;
+}
+
+  #boxbox {
+    display: block;
+    flex-direction: column;
+    width: 100%;
+}
+
+}
