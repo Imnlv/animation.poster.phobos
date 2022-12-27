@@ -1,10 +1,9 @@
 
 body {
-    position: absoolute;
-    left: 2%;
     overflow-x: hidden;
     display: block;
     background: black;
+    padding-left: 2.4%;
 }
 
 .bodyall {
@@ -303,11 +302,11 @@ body {
   width: 16%;
   position: absolute;
   margin-top: -49%;
-  margin-left: -1%;
+  margin-left: -0.6%;
 }
 
 .line2 {
-  width: 12%;
+  width: 12.4%;
   position: absolute;
   margin-top: -31%;
   margin-left: 34.2%;
@@ -553,7 +552,7 @@ body {
   display: block;
   width: 60%;
   margin: auto;
-  margin-top: -8%;
+  margin-top: -7%;
 }
 
 .block8line {
@@ -825,7 +824,7 @@ body {
   animation: strokcer 500ms cubic-bezier(0.4, 0, 1, 1) infinite;
 }
 
-.strokecer2 {margin-left: 12%;}
+.strokecer2 {margin-left: 13%;}
 
 @keyframes strokcer {
   0% {border: 2px solid #03FF0D;}
@@ -845,8 +844,8 @@ body {
 
  .block14_2 {
   display: grid;
-  margin: -80% 0% 0 65%;
-  width: 90%;
+  margin: -67% 0% 0 70%;
+  width: 21%;
   height: 110%;
 }
 
@@ -899,13 +898,13 @@ body {
 }
 
 .ellipse6 {
-  width: 22%;
+  width: 93%;
   margin-left: 4%;
   margin-top: 13%;
 }
 
 .block14line {
-  width: 30%;
+  width: 104%;
 }
 
 .block15 {
