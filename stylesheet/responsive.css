@@ -1,7 +1,7 @@
-@media all and (max-width: 1920px) {
+@media all and (max-width: 2560px) {
   body, html {
     height: 4000px;
-    width: 1920px;
+    width: 1921px;
     font-size: 404px;
     line-height: 494px;
   }
@@ -13,7 +13,7 @@
   }
 
   .box1_1 {
-    margin-top: -122.3%;
+    margin-top: -107.7%;
   }
 
   .block8 {
@@ -22,11 +22,15 @@
 
   .radar1, .radar2, .radar3 {
     border: 7px solid #03FF0D;
-}
-}
+ }
+ }
 
   .line2 {
     margin-left: 33%;
+}
+
+.block13cer {
+    margin-top: 15.5%;
 }
 
   .humanbrain {
@@ -102,6 +106,118 @@
 
   .block12pic {
     width: 70%;
+    display: block;
+    margin: 7% auto;
+}
+
+}
+
+
+@media all and (max-width: 1920px) {
+  body, html {
+    height: 4000px;
+    width: 1920px;
+    font-size: 404px;
+    line-height: 494px;
+  }
+
+
+  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+    box-sizing: border-box;
+    border: 6px solid #03FF0D;
+  }
+
+  .box1_1 {
+    margin-top: -122.3%;
+  }
+
+  .block8 {
+    height: 15.1%;
+  }
+
+  .radar1, .radar2, .radar3 {
+    border: 7px solid #03FF0D;
+ }
+ }
+
+  .line2 {
+    width: 10%;
+    margin-left: 26.6%;
+    margin-top: -26%;
+}
+
+  .humanbrain {
+    bottom: -4%;
+    left: 15%;
+    width: 72%;
+}
+
+  .collbs {
+    width: 40%;
+    height: 30%;
+    top: -17.2%;
+    margin-left: 9%;
+  }
+
+  .humlab1 {
+    width: 71%;
+    height: 78%;
+    position: absolute;
+    bottom: -2.4%;
+    left: 2%;
+  }
+
+.humanlab2 {
+    width: 59%;
+    margin-left: 15%;
+}
+
+  .lab {
+    width: 76%;
+  }
+
+  .block7line, .block8line {
+    width: 54%;
+}
+
+.blockfuter {
+    margin-top: 8.5%;
+}
+
+.block7line {
+    height: 132%;
+}
+
+  ._cer7, .cer7_2 {
+    margin-left: 0.8%;
+}
+
+  .cer7_0, .cer7_1 {
+    margin-left: 2.8%;
+  }
+
+  @keyframes movecer2 {
+  0% {top: 37%;}
+  100% {top: 38.5%;}
+  }
+
+  @keyframes movecer2_1 {
+  0% {top: 37%;}
+  100% {top: 40%;}
+  }
+
+  .cer7_3 {
+  margin-left: 5%;
+  margin-top: .4%;
+  }
+
+  .block9line {
+   width: 64%;
+   margin-left: 18%;
+}
+
+  .block12pic {
+    width: 69%;
     display: block;
     margin: 7% auto;
 }
@@ -199,7 +315,7 @@
 
 @media only screen and (max-device-width: 1280px){
     body, html {
-      height: 2970px;
+      height: 2470px;
       width: 1280px;
       font-size: 291px;
       line-height: 356px;
@@ -214,36 +330,65 @@
     border: 4px solid #03FF0D;
 }
 
-    .box1_1 {
-      margin-top: -136.6%;
+    .hr3, .hr2 {
+    top: -141.5%;
+}
+
+  .box1_1 {
+      margin-top: -99.9%;
     }
 
+  .ellipse6 {
+    width: 85%;
+    margin-left: 10%;
+    margin-top: 50%;
+   }
+
+
+  .block14radar {
+    width: 63%;
+    height: 50%;
+    position: absolute;
+    margin-left: 1%;
+    margin-top: 17%;
+   }
     .cer6_2 {
     margin-top: 11%;
     margin-left: 63%;
     }
 
     .humanbrain {
-    width: 72%;
-    top: 2.5%;
+    width: 64%;
+    top: 6.5%;
+    left: 23%;
     }
+
+  .lab {
+    width: 73%;
+}
+
+
+  .strokecer1, .strokecer2 {
+    width: 5%;
+}
 
    .humlab1 {
     width: 68%;
-    height: 72%;
+    height: 77%;
     position: absolute;
     bottom: -2.4%;
     left: 2%;
   }
 
     .block9line {
-       width: 72%;
+       width: 60%;
+       margin-left: 21%;
     }
 
     .collbs {
-    width: 40%;
-    height: 29%;
-    top: -10.8%;
+    width: 45%;
+    height: 32%;
+    top: -22.8%;
     margin-left: 9%;
     }
 
@@ -258,27 +403,32 @@
 
    .block14line {
     width: 104%;
-    margin-top: -55%;
+    margin-top: -3%;
     }
 
 
     @keyframes movecer2 {
-    0% {top: 40%;}
-    100% {top: 42%;}
+    0% {top: 37.5%;}
+    100% {top: 39%;}
   }
 
    @keyframes movecer2_1 {
-   0% {top: 40%;}
-   100% {top: 46%;}
+   0% {top: 37%;}
+   100% {top: 41%;}
+  }
+
+  .block8line {
+    height: 111%;
+    margin-top: -8%;
   }
     .block12pic {
-    width: 79%;
+    width: 60%;
     display: block;
-    margin: 7% auto;
+    margin: 10% auto;
 }
 
   .blockfuter {
-    margin-top: 11%;
+    margin-top: 8.1%;
   }
 
 
@@ -315,23 +465,23 @@
 @media all and (max-width: 834px) {
   body, html {
   width: 834px;
-  height: 1789px;
+  height: 1690px;
   font-size: 195px;
   line-height: 238px;
 }
 
 .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
   box-sizing: border-box;
-  border: 4px solid #03FF0D;
+  border: 3px solid #03FF0D;
 }
 
   .box1_1 {
-    margin-top: -126.3%;
+    margin-top: -104.8%;
 }
 
 
   .line2 {
-    margin-left: 33%;
+    margin-left: 26.3%;
 }
 
   .humanbrain {
@@ -339,16 +489,20 @@
     left: 22%;
 }
 
+  .cercile {
+    margin-top: -50%;
+}
+
   .humlab1 {
-    width: 66%;
-    height: 75%;
+    width: 74%;
+    height: 80%;
     left: 2%;
 }
 
   .collbs {
     width: 38%;
     height: 32%;
-    top: -12.8%;
+    top: -21.8%;
     margin-left: 9%;
 }
 
@@ -359,35 +513,42 @@
       border: 3px solid #03FF0D;
 }
   .block9line {
-    width: 68%;
+    width: 64%;
 }
 
   .block12pic {
-    width: 72%;
+    width: 64%;
 }
 
   .block14radar {
-    margin-top: 18%;
+    margin-top: 20%;
 }
 
   .block14line {
     width: 104%;
-    margin: -44% 0 0 -5%;
+    margin: -17% 0 0 -5%;
 }
 
+  .strokecer1, .strokecer2 {
+    width: 6%;
+    height: 7%;
+}
+.cer1 {
+    margin-right: %;
+}
 
   .ellipse6 {
-    margin-top: 21%;
+    margin-top: 28%;
 }
 
   @keyframes movecer2 {
-  0% {top: 41%;}
-  100% {top: 43%;}
+  0% {top: 37.5%;}
+  100% {top: 38.5%;}
   }
 
   @keyframes movecer2_1 {
-  0% {top: 41%;}
-  100% {top: 47%;}
+  0% {top: 37%;}
+  100% {top: 41%;}
   }
 
   .hr1 {
@@ -395,12 +556,18 @@
 }
 
     .hr2, .hr3 {
-    margin-top: 58%;
+    margin-top: 90%;
 }
 
 
     .cer7_3 {
-    margin-left: 6.6%;
+    margin-left: 5%;
+}
+
+  @keyframes strokcer {
+  0% {border: 1px solid #03FF0D;}
+  50% {border: 4px solid #03FF0D;}
+  100% {border: 1px solid #03FF0D;}
 }
 
 }
@@ -420,16 +587,16 @@
   }
 
   .radar1, .radar2, .radar3 {
-    border: 2px solid #03FF0D;
+    border: 1.4px solid #03FF0D;
 }
 
     .box1_1 {
-      margin-top: -124.8%;
+      margin-top: -109.8%;
   }
 
   .collbs {
     height: 33%;
-    top: -9%;
+    top: -14.5%;
 }
 
   .hr1, .hr2, .hr3 {
@@ -437,13 +604,24 @@
 }
 
   .hr1 {
-    margin-top: 10%;
+    margin-top: 11%;
 }
+
+  .hr2, .hr3 {
+    margin-top: 98%;
+}
+
+  .line2 {
+    margin-left: 26.3%;
+  }
 
   .block13rec {
     margin-top: 11%;
 }
 
+  .block9line {
+    margin-left: 18%;
+  }
 
     .rectangle14, .rectangle15 {
     height: 7px;
@@ -457,9 +635,52 @@
   100% {border: 1px solid #03FF0D;}
 }
 
+  ._1column, ._2column {
+    margin-bottom: -22%;
+}
+
+    @keyframes movecer2 {
+  0% {top: 37%;}
+  100% {top: 38.5%;}
+  }
+
+  @keyframes movecer2_1 {
+  0% {top: 37%;}
+  100% {top: 41%;}
+  }
+
+
+  .cer7_3 {
+    margin-left: 4.8%;
+}
+
+
+  .humanbrain {
+    width: 71%;
+    left: 19%;
+}
+
+  .block8line {
+    height: 114%;
+    margin-top: -9%;
+}
+
+    .block7line {
+    height: 135%;
+    margin-top: -9%;
+}
+
   .block16 {
     height: 16.95%;
   }
+
+  .block12pic {
+    width: 68%;
+}
+
+  .blockfuter {
+    margin-top: 8.8%;
+}
 
 }
 
@@ -477,7 +698,7 @@
   }
 
   .radar1, .radar2, .radar3 {
-    border: 1.6px solid #03FF0D;
+    border: 0.4px solid #03FF0D;
   }
 
     .radar2 {
@@ -488,8 +709,12 @@
     border: 1px solid #00FF0B;
 }
 
+  .hr2, .hr3 {
+    margin-top: 89%;
+}
+
   .cer7_3 {
-    margin-left: 6.4%;
+    margin-left: 4.7%;
 }
 
   .cer7_2,  {
@@ -497,7 +722,17 @@
 }
 
   .cer7_0, .cer7_1 {
-    margin-left: 4%;
+    margin-left: 2.8%;
+  }
+
+    @keyframes movecer2 {
+  0% {top: 37%;}
+  100% {top: 38.4%;}
+  }
+
+  @keyframes movecer2_1 {
+  0% {top: 37%;}
+  100% {top: 41%;}
   }
 
   .hr1 {
@@ -505,13 +740,13 @@
 }
 
   .line2 {
-    width: 13.4%;
+    width: 9.4%;
     margin-top: -31%;
-    margin-left: 31.7%;
+    margin-left: 26.7%;
 }
 
      .cercile {
-      margin-left: 42%;
+      margin-left: 39%;
 }
 
    .block8 {
@@ -519,24 +754,24 @@
 }
 
    .box1_1 {
-    margin-top: -123%;
+    margin-top: -108.6%;
   }
 
   .collbs {
-    width: 36%;
+    width: 37%;
     height: 32%;
-    top: -8.9%;
+    top: -12.9%;
     margin-left: 9%;
 }
 
   .block12pic {
-    width: 71%;
+    width: 67%;
 }
 
   .strokecer1, .strokecer2 {
     width: 6%;
     height: 7%;
-    border: 2px solid #03FF0D;
+    border: 1px solid #03FF0D;
 }
 
 
@@ -552,13 +787,14 @@
 }
 
   .rectangle14, .rectangle15 {
-    height: 7px;
+    height: 6px;
     border: 1px solid #03FF0D;
-    margin-left: 22%;
+    margin-left: 24%;
 }
 
   .humanbrain {
-    width: 65%;
+    width: 70%;
+    margin-left: 1%;
 }
 
   .cer3 {
@@ -578,6 +814,10 @@
     display: block;
     flex-direction: column;
     width: 100%;
+}
+
+  .blockfuter {
+    margin-top:9.1%;
 }
 
 }
