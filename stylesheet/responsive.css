@@ -359,7 +359,7 @@
 @media all and (max-width: 414px) {
     body, html {
     width: 414px;
-    height: 1570px;
+    height: 870px;
     font-size: 88px;
     line-height: 108px;
   }
@@ -370,7 +370,7 @@
   }
 
     .box1_1 {
-      margin-top: -213%;
+      margin-top: -123.7%;
   }
 
   .block16 {
@@ -383,7 +383,7 @@
 @media all and (max-width: 320px) {
   body, html {
     width: 320px;
-    height: 1150px;
+    height: 670px;
     font-size: 64px;
     line-height: 79px;
   }
@@ -400,6 +400,10 @@
     display: block;
     flex-direction: column;
     width: 100%;
+}
+
+  .box1_1 {
+    margin-top: -123%;
 }
 
 }
