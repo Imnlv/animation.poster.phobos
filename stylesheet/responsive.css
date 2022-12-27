@@ -23,7 +23,11 @@
   .radar1, .radar2, .radar3 {
     border: 7px solid #03FF0D;
 }
-  }
+}
+
+  .line2 {
+    margin-left: 33%;
+}
 
   .humanbrain {
     bottom: -4%;
@@ -57,20 +61,23 @@
 
   .block7line, .block8line {
     width: 54%;
+
 }
 
 .blockfuter {
     margin-top: 11%;
 }
 
-
+.block7line {
+    height: 132%;
+}
 
   ._cer7, .cer7_2 {
-    margin-left: 1.8%;
+    margin-left: 1.6%;
 }
 
   .cer7_0, .cer7_1 {
-    margin-left: 4.3%;
+    margin-left: 4.1%;
   }
 
   @keyframes movecer2 {
@@ -128,6 +135,8 @@
     margin-bottom: 2%;
     margin-left: 19%;
   }
+
+
 
   .humanlab2 {
     width: 68%;
@@ -320,6 +329,11 @@
     margin-top: -126.3%;
 }
 
+
+  .line2 {
+    margin-left: 33%;
+}
+
   .humanbrain {
     width: 66%;
     left: 22%;
@@ -357,8 +371,8 @@
 }
 
   .block14line {
-    width: 23%;
-    margin: 1% 0 0 3%;
+    width: 104%;
+    margin: -44% 0 0 -5%;
 }
 
 
@@ -384,6 +398,10 @@
     margin-top: 58%;
 }
 
+
+    .cer7_3 {
+    margin-left: 6.6%;
+}
 
 }
 
@@ -425,6 +443,7 @@
   .block13rec {
     margin-top: 11%;
 }
+
 
     .rectangle14, .rectangle15 {
     height: 7px;
@@ -470,15 +489,25 @@
 }
 
   .cer7_3 {
-    margin-left: 6.6%;
+    margin-left: 6.4%;
 }
 
-  ._cer7, .cer7_2 {
-    margin-left: 1.4%;
+  .cer7_2,  {
+    margin-left: 1.6%;
 }
+
+  .cer7_0, .cer7_1 {
+    margin-left: 4%;
+  }
 
   .hr1 {
     margin-top: 10%;
+}
+
+  .line2 {
+    width: 13.4%;
+    margin-top: -31%;
+    margin-left: 31.7%;
 }
 
      .cercile {
@@ -498,6 +527,10 @@
     height: 32%;
     top: -8.9%;
     margin-left: 9%;
+}
+
+  .block12pic {
+    width: 71%;
 }
 
   .strokecer1, .strokecer2 {
@@ -524,6 +557,10 @@
     margin-left: 22%;
 }
 
+  .humanbrain {
+    width: 65%;
+}
+
   .cer3 {
     top: 19%;
     left: 10%;
@@ -531,6 +568,10 @@
 
   .block9line {
     width: 67%;
+}
+
+  .block7line {
+    height: 134%;
 }
 
   #boxbox {
