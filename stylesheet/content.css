@@ -512,7 +512,7 @@ body {
 
 ._cer7 {
   width: 4%;
-  height: 1.7%;
+  height: 4;
   position: absolute;
   margin-left: 1.4%;
 }
@@ -816,7 +816,7 @@ body {
 .strokecer1, .strokecer2 {
   position: absolute;
   box-sizing: border-box;
-  width: 6%;
+  width: 5.7%;
   height: 6%;
   border-radius: 100%;
   border: 2px solid #03FF0D;
