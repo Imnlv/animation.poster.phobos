@@ -15,7 +15,6 @@ body {
     font-size: 100%;
     line-height: 100%;
 }
-}
 
 .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
   box-sizing: border-box;
@@ -311,7 +310,7 @@ body {
   width: 12%;
   position: absolute;
   margin-top: -31%;
-  margin-left: 34.5%;
+  margin-left: 34.2%;
 }
 
 
@@ -400,7 +399,7 @@ body {
 }
 
 
-.cer3, .cer4, .cer5 {position: absolute;width: 5%;height: 14%;border-radius: 50%;background-color: #FFFFFF;box-shadow: 0px 0px 12px rgba(205, 205, 205, 0.7);}
+.cer3, .cer4, .cer5 {position: absolute;width: 5%;height: 15%;border-radius: 50%;background-color: #FFFFFF;box-shadow: 0px 0px 12px rgba(205, 205, 205, 0.7);}
 
 .cer3 {
   top: 21%;
@@ -818,7 +817,7 @@ body {
 .strokecer1, .strokecer2 {
   position: absolute;
   box-sizing: border-box;
-  width: 5.5%;
+  width: 6%;
   height: 6%;
   border-radius: 100%;
   border: 2px solid #03FF0D;
@@ -826,7 +825,7 @@ body {
   animation: strokcer 500ms cubic-bezier(0.4, 0, 1, 1) infinite;
 }
 
-.strokecer2 {margin-left: 13%;}
+.strokecer2 {margin-left: 12%;}
 
 @keyframes strokcer {
   0% {border: 2px solid #03FF0D;}
@@ -896,7 +895,7 @@ body {
   height: 50%;
   position: absolute;
   margin-left: 1%;
-  margin-top: 23%;
+  margin-top: 22%;
 }
 
 .ellipse6 {
